@@ -1,5 +1,5 @@
 # TCP
-TCP = Total Commander Paranoia. It is a program, that deletes all your search, renames and other history from Total Cammander settings ini file. Specifically it removes this sections content from Total Commander setting ini file:
+TCP = [Total Commander](https://www.ghisler.com/) Paranoia. It is a program, that deletes all your search, renames and other history from Total Commander settings ini file. Specifically it removes this sections content from Total Commander setting ini file:
 
 - SearchName,
 - SearchIn,
